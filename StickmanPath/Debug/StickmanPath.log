@@ -1,0 +1,196 @@
+﻿  PathOfTheRabit.cpp
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\variaveis.h(14,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\variaveis.h(14,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\variaveis.h(14,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(43,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(66,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(74,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(132,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(155,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(158,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(166,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(189,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(192,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(225,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(228,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(259,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(262,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(370,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(372,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(374,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(376,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(405,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(407,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(418,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(428,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\tabuleiro.h(431,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(56,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(57,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(57,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(62,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(81,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(82,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(82,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(97,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(98,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(104,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(105,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(141,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(158,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(159,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(165,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(175,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(182,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(183,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(195,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(196,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(198,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(199,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(199,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(204,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(205,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(205,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(227,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(228,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(236,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(252,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(253,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(259,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(269,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(276,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(277,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(289,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(290,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(292,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(293,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(293,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(298,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(299,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(299,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(321,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(322,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(324,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(325,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(351,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(352,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(358,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(368,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(375,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(376,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(388,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(389,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(391,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(392,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(392,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(397,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(398,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(398,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(420,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(421,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(422,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(423,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(424,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(425,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(433,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(451,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(452,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(458,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(468,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(475,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(476,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(488,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(489,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(491,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(492,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(492,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(497,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(498,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(498,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(521,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(522,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(524,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(525,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(527,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(528,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(530,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(531,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(533,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\personagens.h(534,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(28,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(28,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(29,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(29,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(30,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(30,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(90,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(90,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(91,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(91,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(92,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(92,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(122,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(122,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(123,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(123,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(124,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(124,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(178,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(178,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(179,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(179,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(180,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(180,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(206,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(206,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(207,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(207,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(208,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(208,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(225,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(225,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(226,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(226,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(227,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(227,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(257,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(257,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(258,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(258,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(259,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(259,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(319,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(319,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(320,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(320,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(321,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(321,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(340,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(340,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(341,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(341,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(342,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(342,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(380,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(380,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(381,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(381,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(382,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(382,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(436,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(436,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(437,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(437,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(438,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(438,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(454,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(454,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(455,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(455,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(456,35): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\keys.h(456,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\StickmanPath\PathOfTheRabit.cpp(73,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  StickmanPath.vcxproj -> C:\Users\kijin\OneDrive\Ambiente de Trabalho\StickmanPath\Debug\StickmanPath.exe
