@@ -1,5 +1,7 @@
 # StickmanPath
 
+Basic game developed using C++ and OpenGL
+
 Instructions:
 -Arrow keys to move the character;
 -Keys to start and exit are described in-game;
